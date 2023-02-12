@@ -1,0 +1,21 @@
+{
+  "//": "https://prettier.io/docs/en/options.html#prose-wrap",
+  "arrowParens": "always",
+  "bracketSameLine": true,
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "eslintIntegration": false,
+  "htmlWhitespaceSensitivity": "ignore",
+  "ignorePath": ".prettierignore",
+  "jsxSingleQuote": true,
+  "parser": "typescript",
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "requireConfig": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "quoteProps": "as-needed"
+}
